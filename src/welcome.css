@@ -1,0 +1,40 @@
+.welcome{
+    position: relative;
+    left: 25px;
+    top:10px;
+    color:#BBBBBB;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.dash{
+    color:black;
+    font-family: 'Balsamiq Sans', cursive;
+    position: relative;
+    left:25px;
+    top:15px;
+}
+.text{
+    color:#BBBBBB;
+    position:relative;
+    bottom:6px;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.sales{
+    color:#342ead;
+    position: relative;
+    left:95px;
+    top:120px;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.tdysales{
+    position: relative;
+    top:10px;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.title{
+    font-family: 'Balsamiq Sans', cursive;
+    
+}

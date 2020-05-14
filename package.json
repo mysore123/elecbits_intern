@@ -2,13 +2,23 @@
   "name": "elecbits_intern",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node":"12.14.1",
+    "npm":"6.13.4",
+
+  },
   "dependencies": {
+    "@material-ui/core": "^4.9.14",
+    "@material-ui/icons": "^4.9.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-google-chart": "^0.1.2",
+    "react-scripts": "3.4.1",
+    "rechart": "0.0.1",
+    "recharts": "^1.8.5"
   },
   "scripts": {
     "start": "react-scripts start",
