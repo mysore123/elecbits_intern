@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To view the demo of this app click here : https://mysore123.github.io/elecbits_intern/
+
 ## Available Scripts
 
 In the project directory, you can run:
