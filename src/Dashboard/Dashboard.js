@@ -200,7 +200,7 @@ export default function Dashboard() {
             <MenuIcon />
           </IconButton>
           <Typography component="h1" variant="h4" color="inherit" noWrap className="title">
-            Sachait
+            Anirudhs Company
           </Typography>
           <div className={classes.search}>
             <div className={classes.searchIcon}>
