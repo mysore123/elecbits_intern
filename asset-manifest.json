@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/elecbits_intern/static/css/main.54ade347.chunk.css",
-    "main.js": "/elecbits_intern/static/js/main.a3472e25.chunk.js",
-    "main.js.map": "/elecbits_intern/static/js/main.a3472e25.chunk.js.map",
+    "main.js": "/elecbits_intern/static/js/main.f86dfd40.chunk.js",
+    "main.js.map": "/elecbits_intern/static/js/main.f86dfd40.chunk.js.map",
     "runtime-main.js": "/elecbits_intern/static/js/runtime-main.f6be209d.js",
     "runtime-main.js.map": "/elecbits_intern/static/js/runtime-main.f6be209d.js.map",
-    "static/js/2.576c1146.chunk.js": "/elecbits_intern/static/js/2.576c1146.chunk.js",
-    "static/js/2.576c1146.chunk.js.map": "/elecbits_intern/static/js/2.576c1146.chunk.js.map",
+    "static/js/2.8aabf7e5.chunk.js": "/elecbits_intern/static/js/2.8aabf7e5.chunk.js",
+    "static/js/2.8aabf7e5.chunk.js.map": "/elecbits_intern/static/js/2.8aabf7e5.chunk.js.map",
     "index.html": "/elecbits_intern/index.html",
-    "precache-manifest.53ffa62ed43443af5fe2b1716abaf549.js": "/elecbits_intern/precache-manifest.53ffa62ed43443af5fe2b1716abaf549.js",
+    "precache-manifest.2a7ea629de9982ee8219828cdea2517e.js": "/elecbits_intern/precache-manifest.2a7ea629de9982ee8219828cdea2517e.js",
     "service-worker.js": "/elecbits_intern/service-worker.js",
     "static/css/main.54ade347.chunk.css.map": "/elecbits_intern/static/css/main.54ade347.chunk.css.map",
-    "static/js/2.576c1146.chunk.js.LICENSE.txt": "/elecbits_intern/static/js/2.576c1146.chunk.js.LICENSE.txt"
+    "static/js/2.8aabf7e5.chunk.js.LICENSE.txt": "/elecbits_intern/static/js/2.8aabf7e5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f6be209d.js",
-    "static/js/2.576c1146.chunk.js",
+    "static/js/2.8aabf7e5.chunk.js",
     "static/css/main.54ade347.chunk.css",
-    "static/js/main.a3472e25.chunk.js"
+    "static/js/main.f86dfd40.chunk.js"
   ]
 }
